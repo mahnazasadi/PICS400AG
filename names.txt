@@ -3,7 +3,6 @@ Aydin Mohandesi
 Mojtaba Mansouri
 Sahar Rezaei
 hosein moradi
-parisa pouyamanesh
 Mahnaz Asadi
 ----
 Amir Khalili
@@ -56,4 +55,5 @@ Parya Golmoghani Azar
 Parya Golmoghani Azar
 kosar hatami
 kosar hatami
+parisa pouyamanesh
 parisa pouyamanesh
